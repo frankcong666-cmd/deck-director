@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deck Director"
+  short_description: "Direct compelling presentations from brief to finished deck"
+  default_prompt: "Use $deck-director to turn my idea into a polished presentation with a clear narrative and visual direction."
